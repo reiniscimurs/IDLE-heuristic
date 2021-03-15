@@ -5,6 +5,7 @@ A novel heuristics function for evaluating and selecting intermediate points in 
 **Resulting score surface in a partially known map:**
 
 Goal: [15, 0]
+
 Origin: [0, 0]
 <p align="left">
     <img width=60% src="https://github.com/reiniscimurs/IDLE-heuristic/blob/main/IDLE_score.png">
