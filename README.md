@@ -4,5 +4,5 @@ A novel heuristics function for evaluating and selecting intermediate points in 
 
 Resulting score surface in a partially known map:
 <p align="center">
-    <img width=40% src="https://github.com/reiniscimurs/IDLE-heuristic/IDLE_score.png">
+    <img width=40% src="https://github.com/reiniscimurs/IDLE-heuristic/blob/main/IDLE_score.png">
 </p>
