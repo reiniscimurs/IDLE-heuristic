@@ -4,23 +4,17 @@ A novel heuristics function for evaluating and selecting intermediate points in 
 
 **Resulting score surfaces in a partially known map:**
 
-Goal: [15, 0]
-
-Origin: [0, 0]
+Goal: [15, 0]  Origin: [0, 0]
 <p align="left">
     <img width=50% src="https://github.com/reiniscimurs/IDLE-heuristic/blob/main/IDLE_score.png">
 </p>
 
-Goal: [10, -5]
-
-Origin: [-5, 2]
+Goal: [10, -5]  Origin: [-5, 2]
 <p align="left">
     <img width=50% src="https://github.com/reiniscimurs/IDLE-heuristic/blob/main/IDLE_score2.png">
 </p>
 
-Goal: [20, 10]
-
-Origin: [-10, -10]
+Goal: [20, 10]  Origin: [-10, -10]
 <p align="left">
     <img width=50% src="https://github.com/reiniscimurs/IDLE-heuristic/blob/main/IDLE_score3.png">
 </p>
